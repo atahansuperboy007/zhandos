@@ -1,0 +1,45 @@
+[
+    {
+
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7ade06a8-4178-4386-9ee2-87fec5a172eb/300x450",
+        "release_date": "1994-09-23",
+        "title": "Шрек",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 18896
+    },
+    {
+
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/28842f10-7eeb-46c4-938e-02182b147172/300x450",
+        "release_date": "1972-03-14",
+        "title": "Тачки",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 14251
+    },
+    {
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/f56710bd-85c3-49b8-9260-2fa8a3d07c01/300x450",
+        "release_date": "1993-11-30",
+        "title": "Мортал Комбат",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 11355
+    },
+    {
+
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/27a3c989-e883-40f3-806f-f3ef27fe7177/300x450",
+        "release_date": "1974-12-20",
+        "title": "Шрек 2",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 8501
+    },
+    {
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/65b9e8fd-4626-4a6a-bfc2-35e6ffebd606/300x450",
+        "release_date": "2016-08-26",
+        "title": "Гарри Поттер и Философский камень",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 7429
+    }
+]
